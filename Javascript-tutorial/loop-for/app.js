@@ -1,0 +1,12 @@
+// for loop
+
+let i;
+for(i = 0; i < 10; i++) {
+  console.log(`and the number is ${i}`);
+}
+
+//
+
+for (let number = 10; number >=0; number--) {
+  console.log(`is number: ${number}`);
+}
