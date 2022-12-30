@@ -1,5 +1,5 @@
 // Condicional Statements
-// >, <, >=, <=, ==, ===, !=, !===
+// >, <, >=, <=, ==, ===, !=, !==
 
 const value = 2 > 5;
 console.log(typeof value);
